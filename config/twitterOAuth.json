@@ -1,0 +1,15 @@
+{
+	"post":{
+		"consumer_key":"",
+		"consumer_secret":"",
+		"access_token_key":"",
+		"access_token_secret":""
+	},
+	"observe":{
+		"consumer_key":"",
+		"consumer_secret":"",
+		"access_token_key":"",
+		"access_token_secret":""
+	}
+}
+

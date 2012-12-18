@@ -1,0 +1,6 @@
+{
+    "appid":"!!!APPID of YahooWebAPI(http://developer.yahoo.co.jp/start/)!!!"¥
+    "markovchain":2,
+    "get":100,
+    "size":10
+}

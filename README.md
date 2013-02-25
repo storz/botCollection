@@ -1,4 +1,4 @@
-botCorrection
+botCollection
 =============
 
 概要
